@@ -1,4 +1,4 @@
-# JS-DrumKit
+# JS-DrumKitBitBox
 
 ## Битбокс машина на JS
 
