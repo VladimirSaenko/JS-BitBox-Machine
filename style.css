@@ -63,4 +63,9 @@ kbd {
   .keys {
     flex-direction: column;
   }
+
+  html {
+    background: url(bg2.jpg) center;
+    background-size: cover;
+  }
 }
