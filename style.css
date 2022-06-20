@@ -9,7 +9,7 @@
 html {
   font-size: 10px;
   background: white;
-  background: url(bg.jpg) bottom center;
+  background: url(bg2.jpg) bottom center;
   background-size: cover;
 }
 
@@ -62,10 +62,5 @@ kbd {
 @media screen and (min-width: 300px) and (max-width: 800px) {
   .keys {
     flex-direction: column;
-  }
-
-  html {
-    background: url(bg2.jpg) center;
-    background-size: cover;
   }
 }
